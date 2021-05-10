@@ -1,6 +1,8 @@
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/beefsack/go-rate v0.0.0-20200827232406-6cde80facd47 h1:M57m0xQqZIhx7CEJgeLSvRFKEK1RjzRuIXiA3HfYU7g=
 github.com/beefsack/go-rate v0.0.0-20200827232406-6cde80facd47/go.mod h1:6YNgTHLutezwnBvyneBbwvB8C82y3dcoOj5EQJIdGXA=
+github.com/bunsenapp/go-selenium v0.1.0 h1:sDE9BCUoZNWycffacIzjU2ubpGTCMX3K9+QhbsbY4EI=
+github.com/bunsenapp/go-selenium v0.1.0/go.mod h1:QbngcjhmXoGwhOcwBMhSXYl1A29IVDZff1T00GZ7y30=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=

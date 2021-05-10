@@ -2,6 +2,7 @@ package main
 
 import (
 	"HeinzBotGoEdition/bot"
+	"HeinzBotGoEdition/bot/modules/kachelmann"
 	"HeinzBotGoEdition/bot/modules/reddit"
 )
 
@@ -12,4 +13,5 @@ func main() {
 
 func registerBots() {
 	reddit.RegisterReddit()
+	kachelmann.RegisterForecast()
 }

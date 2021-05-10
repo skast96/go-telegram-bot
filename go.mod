@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/beefsack/go-rate v0.0.0-20200827232406-6cde80facd47 // indirect
+	github.com/bunsenapp/go-selenium v0.1.0 // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/jzelinskie/geddit v0.0.0-20200521013404-78c28c13fba2
@@ -13,4 +14,3 @@ require (
 )
 
 replace github.com/jzelinskie/geddit => /home/arch/.gitrepos/geddit
-
